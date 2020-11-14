@@ -5,3 +5,26 @@
 2. 设计网页框架
 3. 设计组件
 4. 使用假数据串联网页
+
+假数据的结构：
+```
+{
+  Type: '',
+  Courses: [
+    {
+      Title: '',
+      Price: '',
+      Discount: '',
+      Detail: '',
+      CourseUrl: [
+        {
+          index: Number,
+          url: ''
+        },
+        ...
+      ]
+    },
+    ...
+  ]
+}
+```
