@@ -8,23 +8,26 @@
 
 假数据的结构：
 ```
-{
-  Type: '',
-  Courses: [
-    {
-      Title: '',
-      Price: '',
-      Discount: '',
-      Detail: '',
-      CourseUrl: [
-        {
-          index: Number,
-          url: ''
-        },
-        ...
-      ]
-    },
-    ...
-  ]
-}
+[
+  {
+    Type: '',
+    Courses: [
+      {
+        Title: '',
+        Price: '',
+        Discount: '',
+        Detail: '',
+        CourseUrl: [
+          {
+            index: Number,
+            url: ''
+          },
+          ...
+        ]
+      },
+      ...
+    ]
+  },
+  ...
+]
 ```
