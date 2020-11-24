@@ -65,29 +65,29 @@ var courses = {
   ],
   bigdata: [
     {
-      title: '重学前端',
-      img: 'https://static001.geekbang.org/resource/image/34/e2/34d62b5130d545438d50025ce78e98e2.jpg?x-oss-process=image/resize,m_fill,h_268,w_596',
+      title: 'Python 核心技术与实战',
+      img: 'https://static001.geekbang.org/resource/image/89/97/89a4607f1ae8b31374e8a06b4d39e397.jpg?x-oss-process=image/resize,m_fill,h_268,w_596',
       tutor: {
-        name: '程劭非（winter）',
-        tag: ['前手机淘宝前端负责人']
+        name: '景霄',
+        tag: ['Facebook 资深工程师']
       },
-      detail: '一站通关CSS、Javascript',
+      detail: '一站通关神经网络，深度学习',
       price: {
-        price: 129,
+        price: 99,
         discount: 9.9
       },
       courseUrls: []
     },
     {
-      title: 'Vue 开发实战',
-      img: 'https://static001.geekbang.org/resource/image/62/40/62695807018915d68c3f43645d18c340.jpg?x-oss-process=image/resize,m_fill,h_268,w_596',
+      title: '零基础学 Python',
+      img: 'https://static001.geekbang.org/resource/image/d6/51/d6028dd612c6ce65dbe6abb2a1621e51.jpg?x-oss-process=image/resize,m_fill,h_268,w_596',
       tutor: {
-        name: '唐金州',
-        tag: ['一点资讯前端技术专家', 'Ant Design Vue 作者']
+        name: '尹会生',
+        tag: ['金山软件西山居运维总监']
       },
-      detail: '从原理到实战，唐金州带你搞懂VUE',
+      detail: '从原理到实战，尹会生带你搞懂Python',
       price: {
-        price: 129,
+        price: 199,
         discount: 9.9
       },
       courseUrls: []
@@ -95,29 +95,29 @@ var courses = {
   ],
   sfwTest: [
     {
-      title: '重学前端',
-      img: 'https://static001.geekbang.org/resource/image/34/e2/34d62b5130d545438d50025ce78e98e2.jpg?x-oss-process=image/resize,m_fill,h_268,w_596',
+      title: '性能测试实战 30 讲',
+      img: 'https://static001.geekbang.org/resource/image/07/a9/07f15475d742bed548a47ffb3250f5a9.jpg?x-oss-process=image/resize,m_fill,h_268,w_596',
       tutor: {
-        name: '程劭非（winter）',
-        tag: ['前手机淘宝前端负责人']
+        name: '高楼',
+        tag: ['前 HP 高级性能专家', '7DGroup创始人']
       },
-      detail: '一站通关CSS、Javascript',
+      detail: '一站通关性能测试',
       price: {
-        price: 129,
+        price: 99,
         discount: 9.9
       },
       courseUrls: []
     },
     {
-      title: 'Vue 开发实战',
-      img: 'https://static001.geekbang.org/resource/image/62/40/62695807018915d68c3f43645d18c340.jpg?x-oss-process=image/resize,m_fill,h_268,w_596',
+      title: '软件测试 52 讲',
+      img: 'https://static001.geekbang.org/resource/image/24/fe/245a4e8e572ea8038177054f5c70e4fe.jpg?x-oss-process=image/resize,m_fill,h_268,w_596',
       tutor: {
-        name: '唐金州',
-        tag: ['一点资讯前端技术专家', 'Ant Design Vue 作者']
+        name: '茹炳晟',
+        tag: ['eBay 中国研发中心', '测试基础架构技术主管']
       },
-      detail: '从原理到实战，唐金州带你搞懂VUE',
+      detail: '从原理到实战，茹炳晟带你搞懂软件测试',
       price: {
-        price: 129,
+        price: 99,
         discount: 9.9
       },
       courseUrls: []
